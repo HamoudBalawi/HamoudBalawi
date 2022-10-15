@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Norway</h3>
-<img align="right" alt="coding" width="400" src="https://giphy.com/stickers/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">
+<script src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c.js"></script>
 
 - 🔭 I’m currently working on [Portfolio Webpage](https://github.com/HamoudBalawi/balawi/tree/main/images)
 
